@@ -1,0 +1,16 @@
+pedido_id,data_pedido,cliente_id,idade_cliente,genero,produto,categoria,preco_unitario,quantidade,forma_pagamento,valor_total,cidade,estado,status_pedido
+1001,2024-01-05,C001,29,M,Smartphone X,Smartphones,2500,1,Cartao,2500,São Paulo,SP,Entregue
+1002,2024-01-07,C002,34,F,Notebook Pro,Notebooks,4500,1,Boleto,4500,Rio de Janeiro,RJ,Entregue
+1003,2024-01-08,C003,22,M,Fone Bluetooth,Acessorios,300,2,Pix,600,Belo Horizonte,MG,Cancelado
+1004,2024-01-10,C004,,F,Tablet Plus,Tablets,1800,1,Cartao,1800,Curitiba,PR,Entregue
+1005,2024-01-11,C005,41,M,Smartphone X,Smartphones,2500,2,Cartao,5000,Porto Alegre,RS,Entregue
+1006,2024-01-11,C006,27,F,Fone Bluetooth,Acessorios,300,1,Pix,300,Recife,PE,Entregue
+1007,2024-01-13,C007,52,M,Notebook Pro,Notebooks,4500,1,,4500,Salvador,BA,Entregue
+1008,2024-01-14,C008,19,F,Smartwatch Z,Wearables,1200,1,Pix,1200,São Paulo,SP,Entregue
+1009,2024-01-15,C009,65,M,Smartphone X,Smartphones,2500,1,Cartao,2500,Sao Paulo,SP,Devolvido
+1010,2024-01-15,C010,31,F,Fone Bluetooth,Acessorios,300,3,Pix,900,Rio de Janeiro,RJ,Entregue
+1011,2024-01-16,C011,28,M,Smartwatch Z,Wearables,1200,1,Cartao,1200,Campinas,SP,Entregue
+1012,2024-01-18,C012,abc,F,Tablet Plus,Tablets,1800,1,Boleto,1800,Curitiba,PR,Cancelado
+1013,2024-01-20,C013,45,M,Notebook Pro,Notebooks,4500,1,Cartao,,São Paulo,SP,Entregue
+1014,2024-01-21,C014,37,F,Smartphone X,Smartphones,2500,0,Pix,0,Florianópolis,SC,Entregue
+1015,2024-01-22,C015,24,F,Fone Bluetooth,Acessorios,300,1,Pix,300,,RJ,Entregue
