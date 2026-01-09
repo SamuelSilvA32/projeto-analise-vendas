@@ -70,16 +70,3 @@ Um **relatório executivo em PDF**, sem código, foi gerado para apresentar os p
 📂 Local: `/relatorio/relatorio_da_analise.pdf`
 
 ---
-
-## 🗂 Estrutura do Projeto
-
-📁 analise-vendas-loja-online
-├── assets/
-│ └── imagens dos gráficos utilizados no relatório
-├── data/
-│ └── vendas_loja_online.csv
-├── notebook/
-│ └── analise_tecnica.ipynb
-├── relatorio/
-│ └── relatorio_analise_vendas.pdf
-└── README.md
